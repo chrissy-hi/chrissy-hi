@@ -16,7 +16,7 @@
   </a>
 
   <a href="your-linkedin-URL">
-    <img src="/devpost" alt="DevPost Badge"/>
+    <img src="/4373243_dev_logo_logos_icon.png" alt="DevPost Badge"/>
   </a>
 
 
