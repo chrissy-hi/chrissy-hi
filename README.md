@@ -1,6 +1,8 @@
 <div id = "header" align="center">
   <img src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width="200" "height=200"/>
-  <h1> Hi, I'm Christina</h1>
+  <h1> Hi, I'm</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Chrsitina)](https://git.io/typing-svg)
+
 </div>
 
 <div id="badges" align="center">
