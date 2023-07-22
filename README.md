@@ -1,6 +1,8 @@
 <div id = "header" align="center">
   <img src="https://media.giphy.com/media/IhOTyxw1dOMI3KlBlc/giphy.gif" width="200" "height=200"/>
   <img src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width="200" "height=200"/>
+  <h1> Hi, I'm Christina</h1>
+  <img src="https://media.giphy.com/media/IhOTyxw1dOMI3KlBlc/giphy.gif" width="200" "height=200"/>
 </div>
 
 <!--
