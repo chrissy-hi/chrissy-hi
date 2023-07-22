@@ -14,7 +14,10 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  ![image](https://github.com/chrissy-hi/chrissy-hi/assets/77197824/92722ede-113d-4ce9-92b4-19c0b4b45f0b)
+
+  <a href="your-linkedin-URL">
+    <img src="/devpost" alt="DevPost Badge"/>
+  </a>
 
 
 </div>
