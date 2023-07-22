@@ -1,5 +1,5 @@
 span {
-  font-size: 16px;
+  font-size: 30px;
   font-weight: bold;
 }
 
