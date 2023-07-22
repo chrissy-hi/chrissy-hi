@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<link rel="stylesheet" href="mystyle.css">
-</head>
 <body>
 
 <div id = "header" align="center">
   <img src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width="200" "height=200"/>
-  <h1> Hi, I'm <span>Christina</span></h1>
+  <h1> Hi, I'm Christina</h1>
 </div>
 
 <div id="badges" align="center">
