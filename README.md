@@ -1,9 +1,10 @@
-<style>
-span {
-  font-size: 30px;
-  font-weight: bold;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
 <div id = "header" align="center">
   <img src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width="200" "height=200"/>
   <h1> Hi, I'm <span>Christina</span></h1>
@@ -14,6 +15,9 @@ span {
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+</body>
+</html>
 
 <!--
 **chrissy-hi/chrissy-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
