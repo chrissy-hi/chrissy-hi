@@ -1,8 +1,9 @@
+<style>
 span {
   font-size: 30px;
   font-weight: bold;
 }
-
+</style>
 <div id = "header" align="center">
   <img src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width="200" "height=200"/>
   <h1> Hi, I'm <span>Christina</span></h1>
