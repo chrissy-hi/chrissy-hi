@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="100"/>
+</div>
 
 <!--
 **chrissy-hi/chrissy-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
