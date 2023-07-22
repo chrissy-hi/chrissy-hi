@@ -11,11 +11,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/chrissy-buzz/">
     <img src="/1727490_linkedin_social media_job_network_icon.png" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="your-linkedin-URL">
+  <a href="https://devpost.com/Chrissy-buzz?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img src="/devposticon.png" alt="DevPost Badge"/>
   </a>
 </div>
