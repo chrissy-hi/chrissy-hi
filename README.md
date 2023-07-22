@@ -1,7 +1,6 @@
 <div id = "header" align="center">
   <img src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" width="200" "height=200"/>
-  <h1> Hi, I'm</h1>
-  <h1 font-size="20px">Christina </h1>
+  <h1> Hi, I'm <span style="color:#f095d6;">Christina</span></h1>
 </div>
 
 <div id="badges" align="center">
