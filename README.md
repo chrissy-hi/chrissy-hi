@@ -12,7 +12,7 @@
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="/1727490_linkedin_social media_job_network_icon.png" alt="LinkedIn Badge"/>
   </a>
 
   <a href="your-linkedin-URL">
