@@ -21,7 +21,7 @@
 </div>
 
 # 💫 About Me:
-🎓 I'm a currently a college senior pursuing Computer Science.<br>🔭 I’m currently working on a project called SunLite Tracker. For this project I am  developing the software for a custom IOT platform that tracks sunlight intensity.<br>🌱 I’m currently learning fullstack web dev using JavaScript, CSS, HTML,  React, and Java. <br>👯 I’m looking to collaborate on web dev projects. <br>😄 Pronouns: she/her<br>⚡ Fun fact: I love ballroom dancing.
+🎓 I'm a currently a college senior pursuing Computer Science.<br>🔭 I’m currently working on a project called SunLite Tracker. For this project I am  developing the software for a custom IOT platform that tracks sunlight intensity.<br>🌱 I’m currently learning fullstack web dev using JavaScript, CSS, HTML,  React, and Java. <br>👯 I’m looking to collaborate on fun web apps! <br>😄 Pronouns: she/her<br>⚡ Fun fact: I love ballroom dancing.
 
 
 # 💻 Tech Stack:
