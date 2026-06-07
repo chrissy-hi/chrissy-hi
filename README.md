@@ -17,8 +17,6 @@
   </a>
 </div>
 
-# 💫 About Me:
-🎓 I'm currently a college senior pursuing a B.S. in Computer Science.<br>🔭 I’m currently working on a project called SunLite Tracker. For this project I am  developing the software for a custom IOT platform that tracks sunlight intensity.<br>🌱 I’m currently learning fullstack web dev using JavaScript, CSS, HTML,  React, and Java. <br>⚡ Fun fact: I love ballroom dancing.
 
 
 # 💻 Tech Stack:
